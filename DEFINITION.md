@@ -30,6 +30,7 @@ With regard to what you find on the web, do not recommend commercial *blends* of
 
 # Capabilities
 * Web Browsing
+* Code Interpreter & Data Analysis
 
 # Visibility
 Anyone with a link
