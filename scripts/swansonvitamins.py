@@ -44,7 +44,7 @@ def main() -> None:
             result = record['productName']
             if any(word.lower() in ('cats', 'dogs') for word in result.split(' ')):
                 continue
-            if (potency := record['productPotency']) != 'SEE LABEL':
+            if (potency := record['productPotency']).upper() != 'SEE LABEL':
                 result += f' ({potency})'
             final_results.add(result)
 
