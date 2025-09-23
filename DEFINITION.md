@@ -32,8 +32,11 @@ With regard to what you find on the web, do not recommend commercial *blends* of
 * Web Browsing
 * Code Interpreter & Data Analysis
 
+# Model
+GPT-5
+
 # Visibility
-Anyone with a link
+Only me (enforced by OpenAI due to restrictions on offering tailored medical advice)
 
 # Link
 https://chat.openai.com/g/g-NzBhz9TgU-supplement-advisor
