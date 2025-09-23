@@ -1,4 +1,4 @@
-This is the repository for the custom GPT [Supplement Advisor](https://chat.openai.com/g/g-NzBhz9TgU-supplement-advisor).
+This is the repository for the custom GPT **Supplement Advisor**.
 
 To create the custom GPT using GPT Builder, use its [definition](DEFINITION.md) and [uploaded files](uploads).
 
