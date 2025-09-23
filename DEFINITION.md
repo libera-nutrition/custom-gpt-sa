@@ -37,6 +37,3 @@ GPT-5
 
 # Visibility
 Only me (enforced by OpenAI due to restrictions on offering tailored medical advice)
-
-# Link
-https://chat.openai.com/g/g-NzBhz9TgU-supplement-advisor
